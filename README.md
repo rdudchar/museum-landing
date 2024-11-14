@@ -5,6 +5,8 @@
 ## **Description**
 On this website, I developed a **responsive interface** for an **art museum**, including various sections such as a **gallery**, **events**, **tickets**, and **navigation**. The main technologies used are:
 
+---
+
 ## **Technologies Used**
 ![HTML](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/html.svg)
 ![CSS](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/css.svg)
@@ -19,6 +21,8 @@ On this website, I developed a **responsive interface** for an **art museum**, i
 - **Flexbox & Grid**: Used for layout and element positioning.
 - **JavaScript**: Added interactivity, such as click events for navigation items in the slider.
 
+---
+
 ## **Features**
 ### **Responsive Design**
 - Implemented media queries with mixins (`on-tablet`, `on-desktop`) to ensure compatibility across various screen sizes (desktops, tablets, and mobile devices).
@@ -28,6 +32,8 @@ On this website, I developed a **responsive interface** for an **art museum**, i
 
 These features contribute to creating an **intuitive interface** with an **attractive visual style** that meets modern user needs.
 
+---
+
 ## **Getting Started**
 
 ### **Requirements**
@@ -35,19 +41,21 @@ These features contribute to creating an **intuitive interface** with an **attra
 
 ### **Installation**
 Clone this repository:
-git clone https://github.com/rdudchar/<repo_name>.git
+`git clone https://github.com/rdudchar/<repo_name>.git`
 
 **Navigate to the project folder:**
-cd museum-landing
+`cd museum-landing`
 
 **Install dependencies:**
-npm install
+`npm install`
 
 **Running the Application**
 To run the app locally, use:
-npm start
+`npm start`
 
 Then open http://localhost:3000 in your browser to view it.
+
+---
 
 **Usage**
 Go to the DEMO LINK to view the live version of the app.
