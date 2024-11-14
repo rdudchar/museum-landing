@@ -8,11 +8,8 @@ On this website, I developed a **responsive interface** for an **art museum**, i
 ---
 
 ## **Technologies Used**
-![HTML](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/html.svg)
-![CSS](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/css.svg)
-![SCSS](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/sass.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/javascript.svg)
-![Figma](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/figma.svg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,figma)](https://skillicons.dev)
+
 
 - **Figma**: https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0-1&node-type=canvas
   
