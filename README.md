@@ -11,7 +11,7 @@ On this website, I developed a responsive interface for an art museum, including
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,figma)](https://skillicons.dev)
 
 
-- **Figma**: https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0-1&node-type=canvas
+- [**Figma**](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0-1&node-type=canvas)
   
 - **HTML**: Used to create the structure of the webpage.
 - **SCSS (Sass)**: Optimized styling and organized it into modular files for easier management. The `style.scss` file consolidates all styles, enabling the use of variables, mixins, and modular components.
