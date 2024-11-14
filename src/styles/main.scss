@@ -1,3 +1,13 @@
-body {
-  margin: 0;
+.main__gallery {
+  @include content-padding-in-line;
+
+  margin-bottom: 100px;
+
+  @include on-tablet {
+    margin-bottom: 92px;
+  }
+
+  @include on-desktop {
+    margin-bottom: 200px;
+  }
 }

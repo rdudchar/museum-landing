@@ -1,0 +1,129 @@
+.menu {
+  @include on-tablet {
+    height: 225px;
+    min-width: 678px;
+  }
+
+  @include on-desktop {
+    height: 233px;
+  }
+
+  &__top {
+    display: flex;
+    align-items: flex-start;
+    gap: 28px;
+    margin-bottom: 24px;
+
+    @include on-tablet {
+      margin-right: 38px;
+    }
+
+    @include on-desktop {
+      gap: 102px;
+      margin-right: 102px;
+    }
+  }
+
+  &__working-schedule {
+    margin-bottom: 16px;
+
+    @include on-tablet {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      margin-inline: 38px;
+    }
+
+    @include on-desktop {
+      margin-left: 102px;
+      white-space: nowrap;
+    }
+  }
+
+  &__working-schedule-title {
+    margin: 24px 0 20px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+
+    @include on-tablet {
+      margin: 0;
+    }
+  }
+
+  &__working-schedule-list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 14px;
+    width: 158px;
+  }
+
+  &__line {
+    border-bottom: 1px solid $white;
+
+    @include on-tablet {
+      border-right: 1px solid $white;
+      height: 145px;
+    }
+  }
+
+  &__working-sedule-item-thin {
+    font-weight: 400;
+    width: 144px;
+  }
+  &__opacity {
+    height: 100vh;
+    opacity: 0.5;
+    background: #18181a;
+
+    @include on-tablet {
+      height: 750px;
+    }
+  }
+
+  &__holidays {
+    text-align: left;
+    font-size: 14px;
+    font-weight: 400;
+
+    @include on-tablet {
+      width: 144px;
+      margin-top: 40px;
+    }
+
+    @include on-desktop {
+      width: 170px;
+    }
+  }
+}
+
+.container {
+  @include content-padding-in-line;
+
+  padding-top: 30px;
+
+  @include on-tablet {
+    padding-top: 39px;
+  }
+
+  @include on-desktop {
+    padding-top: 40px;
+  }
+
+  background-color: $aside;
+  color: $white;
+  overflow: auto;
+  height: 399px;
+  min-width: 320px;
+
+  @include on-tablet {
+    display: flex;
+    height: 225px;
+  }
+
+  @include on-desktop {
+    height: 233px;
+  }
+}

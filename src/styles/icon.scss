@@ -1,0 +1,16 @@
+.icon {
+  display: block;
+  height: 24px;
+  width: 24px;
+
+  &--menu {
+    background-image: url(../images/icon-menu.svg);
+    background-repeat: no-repeat;
+    @include hover(transform, scale(1.05));
+  }
+
+  &--close {
+    background-image: url(../images/aside-close-menu.svg);
+    @include hover(transform, scale(1.05));
+  }
+}
