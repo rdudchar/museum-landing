@@ -46,7 +46,7 @@ Clone this repository:
 **Install dependencies:**
 `npm install`
 
-**Running the Application**
+**Running the Application:**
 To run the app locally, use:
 `npm start`
 
@@ -54,5 +54,5 @@ Then open http://localhost:3000 in your browser to view it.
 
 ---
 
-**Usage**
+**Usage:**
 Go to the DEMO LINK to view the live version of the app.
