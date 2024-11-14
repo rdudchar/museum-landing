@@ -3,7 +3,8 @@
 - [**DEMO LINK**](https://rdudchar.github.io/museum-landing)
 
 ## **Description**
-On this website, I developed a responsive interface for an art museum, including various sections such as a gallery, events, tickets, and navigation.
+On this website, I developed a responsive interface for an art museum, including various sections such as a gallery, events, tickets, and navigation
+
 ---
 
 ## **Technologies Used**
